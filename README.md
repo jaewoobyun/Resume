@@ -4,6 +4,7 @@
 ## 1. Personal Details
 ### Email
         jaewoobyun1@gmail.com
+        
 
 ## 2. Summary
 ### Interests
@@ -17,6 +18,8 @@
   - Languages I dabbled with: HTML, CSS, JavaScript, Python, React-Native, C#
   - Experienced Databases: SQLite, MySQL
   - Experienced Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
+  - Dependency Managers Experience: CocoaPods, Carthage
+  - IDEs: XCode, Visual Studio Code
   
 ### Books Read
   - Data Structures & Algorithms in Swift (by Kevin Lau)
@@ -29,7 +32,7 @@
   - 꼼꼼한 재은씨의 Swift 실전편 (by 이재은)
   - Test-Driven iOS Development with Swift4 (Third Edition) Packt (by Dr.Dominik Hauser)
   
-### Books to Read in the future
+### Books in progress
   - SwiftUI by Tutorials (by Audrey Tam)
   - RxSwift - Reactive Programming with Swift (by Marin Todorov)
   - Combine (by Marin Todorov)
@@ -45,6 +48,32 @@
 - Nomad Connection
 > 2019/10
 
-## 5. Projects
+## 5. Sample Projects
+
+### FastCampus Team Final Project - My Real Trip copy app
+* period: 2018/07/30 ~ 2018/08/23
+* 담당파트: Tour Home 
+* 사용기술: Swift, Alamofire,
+
+### Chat Application
+* period: 2019
+* part:
+* skillset:
+* Used Libraries: Alamofire, Firebase
+* Misc: 
+
+### App Store copy app
+* Period: 
+* Skillset:
+* Libraries:
+* Miscellaneous
+
+### Safari copy app
+* Period: 
+* Skillset:
+* Libraries:
+* Miscellaneous
+
+
 
 
