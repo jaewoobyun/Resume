@@ -14,8 +14,8 @@
   
 ### Skills
   - Core Languages: Swift
-  - Experienced Languages: HTML, CSS, JavaScript, Python, React-Native, C#
-  - Databases: SQLite, MySQL
+  - Languages I dabbled with: HTML, CSS, JavaScript, Python, React-Native, C#
+  - Experienced Databases: SQLite, MySQL
   - Experienced Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
   
 ### Books Read
@@ -33,4 +33,18 @@
   - SwiftUI by Tutorials (by Audrey Tam)
   - RxSwift - Reactive Programming with Swift (by Marin Todorov)
   - Combine (by Marin Todorov)
-  
+
+## 3. Education Progress
+  - FastCampus iOS Development School 7기 과정 수료
+  > 2018/05/09 ~ 2018/08/24
+  - 블록체인
+
+## 4. Career
+- Coordispace
+> 2018/10
+- Nomad Connection
+> 2019/10
+
+## 5. Projects
+
+
