@@ -65,7 +65,7 @@
 * Info:
         Team Final Project with the help of Back-end
 * Link:
-        https://youtu.be/kVWL8-3Pt5o
+        - Video: https://youtu.be/kVWL8-3Pt5o
 
 ### Chat Application
 * period: (2018/09 ~ 2018/10)(2019/02 ~ 2019/04)?
@@ -77,8 +77,8 @@
         Basic Features: chat available, sending text, images, and videos available. Basic Login/ register functionalities
         I gave it a little bit of twist by testing the users with the Avengers!
 * Link: 
-        https://youtu.be/H3ReevZx470
-        https://github.com/jaewoobyun/chatapp
+        - Video: https://youtu.be/H3ReevZx470
+        - Github: https://github.com/jaewoobyun/chatapp
 
 ### App Store copy app
 * Period: 2019/10/22 ~ 2019/12/15? +
@@ -89,8 +89,8 @@
         Can search for apps by category, genre, games, etc..
         
 * Link:
-        https://youtu.be/0ZElDrD01UE
-        https://github.com/jaewoobyun/appstore
+        - Video:  https://youtu.be/0ZElDrD01UE
+        - Github: https://github.com/jaewoobyun/appstore
 
 ### Safari copy app
 * Period: 2019/12/16 ~ 2020/01/20? +
@@ -102,8 +102,8 @@
         Bookmarks, ReadingList, History functional
         When user wants to access Reading List, they need to bio-Authenticate with fingerprint (if available)
 * Link:
-        https://youtu.be/RpUrdmcG6Qg
-        https://github.com/jaewoobyun/safari
+        - Video: https://youtu.be/RpUrdmcG6Qg
+        - Github: https://github.com/jaewoobyun/safari
 
 ### PawChain
 * period: (2019/08 ~ 2019/09)
@@ -113,6 +113,6 @@
 * Info:
         Team Project
 * Link:
-        https://youtu.be/nSPCgIZ84gc
+       - Video: https://youtu.be/nSPCgIZ84gc
         
 
