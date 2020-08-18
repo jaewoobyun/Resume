@@ -63,6 +63,7 @@
 * Skillset: Swift, Alamofire,
 * Libraries: 
 * Info: 
+* Link: https://youtu.be/kVWL8-3Pt5o
 
 ### Chat Application
 * period: 2019
@@ -76,13 +77,14 @@
 * Skillset:
 * Libraries:
 * Miscellaneous
+* Link: https://youtu.be/0ZElDrD01UE
 
 ### Safari copy app
 * Period: 
 * Skillset:
 * Libraries:
 * Miscellaneous
-
+* Link: https://youtu.be/RpUrdmcG6Qg
 
 
 
