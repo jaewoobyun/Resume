@@ -19,7 +19,7 @@
   - Experienced Databases: SQLite, MySQL
   - Experienced Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
   - Dependency Managers Experience: CocoaPods, Carthage
-  - IDEs: XCode, Visual Studio Code
+  - IDEs: XCode, Visual Studio Code, Unity
   
 ### Books Read
   - Data Structures & Algorithms in Swift (by Kevin Lau)
@@ -38,26 +38,35 @@
   - Combine (by Marin Todorov)
 
 ## 3. Education Progress
+  - University of Illinois Urbana Champaign
+  > Communication Major, Informatics Minor
+  > 2010/08 ~ 2017/08
   - FastCampus iOS Development School 7기 과정 수료
-  > 2018/05/09 ~ 2018/08/24
-  - 블록체인
+  > 2018/05/08 ~ 2018/08/24
+  - 취창업 연계 블록체인 기반의 산업적용 개발자 양성과정 수료
+  > 2019/08/19 ~ 2019/10/18
 
 ## 4. Career
 - Coordispace
-> 2018/10
+> 2018/10/10 ~ 2018/12/31
+> App 개발 부서 iOS 개발 연구원. 
+
 - Nomad Connection
-> 2019/10
+> 2019/10/21 ~ 2020/01/20
+> iOS 개발 intern
 
 ## 5. Sample Projects
 
 ### FastCampus Team Final Project - My Real Trip copy app
-* period: 2018/07/30 ~ 2018/08/23
-* 담당파트: Tour Home 
-* 사용기술: Swift, Alamofire,
+* Period: 2018/07/30 ~ 2018/08/23
+* Part: Tour & Ticket Pages
+* Skillset: Swift, Alamofire,
+* Libraries: 
+* Info: 
 
 ### Chat Application
 * period: 2019
-* part:
+* part: All
 * skillset:
 * Used Libraries: Alamofire, Firebase
 * Misc: 
