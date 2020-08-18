@@ -60,31 +60,59 @@
 ### FastCampus Team Final Project - My Real Trip copy app
 * Period: 2018/07/30 ~ 2018/08/23
 * Part: Tour & Ticket Pages
-* Skillset: Swift, Alamofire,
-* Libraries: 
-* Info: 
-* Link: https://youtu.be/kVWL8-3Pt5o
+* Skillset: Swift, UIKit
+* Libraries: Alamofire, Kingfisher?
+* Info:
+        Team Final Project with the help of Back-end
+* Link:
+        https://youtu.be/kVWL8-3Pt5o
 
 ### Chat Application
-* period: 2019
-* part: All
-* skillset:
-* Used Libraries: Alamofire, Firebase
-* Misc: 
+* period: (2018/09 ~ 2018/10)(2019/02 ~ 2019/04)?
+* Languages: Swift, UIKit
+* Libraries: Alamofire, Firebase
+* Info:
+        Followed the tutorial from Let's build that App Youtube channel by Brian Voong.
+        It was my first time using Firebase Database platform.
+        Basic Features: chat available, sending text, images, and videos available. Basic Login/ register functionalities
+        I gave it a little bit of twist by testing the users with the Avengers!
+* Link: 
+        https://youtu.be/H3ReevZx470
+        https://github.com/jaewoobyun/chatapp
 
 ### App Store copy app
-* Period: 
-* Skillset:
-* Libraries:
-* Miscellaneous
-* Link: https://youtu.be/0ZElDrD01UE
+* Period: 2019/10/22 ~ 2019/12/15? +
+* Skillset: Swift, UIKit
+* Libraries: SnapKit, 
+* Info: 
+        Tried to replicate AppStore with exisiting APIs
+        Can search for apps by category, genre, games, etc..
+        
+* Link:
+        https://youtu.be/0ZElDrD01UE
+        https://github.com/jaewoobyun/appstore
 
 ### Safari copy app
-* Period: 
-* Skillset:
-* Libraries:
-* Miscellaneous
-* Link: https://youtu.be/RpUrdmcG6Qg
+* Period: 2019/12/16 ~ 2020/01/20? +
+* Skillset: Swift, UIKit, WKWebkit
+* Libraries: Alamofire, WKWebKit, CITreeView, FavIcon, SCPageViewController, SCSafariPageController, SCScrollView, SwiftSoup,
+* Info :
+        Tried to replicate Safari web Browser iOS App.
+        Basic web surfing able.
+        Bookmarks, ReadingList, History functional
+        When user wants to access Reading List, they need to bio-Authenticate with fingerprint (if available)
+* Link:
+        https://youtu.be/RpUrdmcG6Qg
+        https://github.com/jaewoobyun/safari
 
-
+### PawChain
+* period: (2019/08 ~ 2019/09)
+* part: Main Home
+* skillset: React Native
+* Libraries: Firebase
+* Info:
+        Team Project
+* Link:
+        https://youtu.be/nSPCgIZ84gc
+        
 
