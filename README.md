@@ -25,7 +25,7 @@
   - Data Structures & Algorithms in Swift (by Kevin Lau)
         - https://github.com/jaewoobyun/DataStructures_And_Algorithms
   - iOS Animations by Tutorials (by Marin Todorov)
-        - https://github.com/jaewoobyun/iOS_Animations
+        - https://github.com/jaewoobyun/iOS-Animations
   - Design Patterns by Tutorials (by Joshua Greene)
         - https://github.com/jaewoobyun/DesignPatterns
   - Core Data by Tutorials (by Pietro Rea)
