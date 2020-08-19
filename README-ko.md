@@ -1,11 +1,10 @@
-# Resume
+# 이력서
 > 변재우의 이력서입니다. 😄
 
 ## 1. 개인정보
 ### 이메일
         jaewoobyun1@gmail.com
         
-
 ## 2. 요약
 ### 관심
   - iOS Application Development
@@ -44,8 +43,8 @@
   - Combine (by Marin Todorov)
 
 ## 3. 교육 과정
-  - University of Illinois Urbana Champaign
-  > Communication Major, Informatics Minor
+  - University of Illinois Urbana Champaign (일리노이 어바나 샴페인 주립대학교)
+  > Communication Major, Informatics Minor (커뮤니케이션 전공, 정보과학 부전공)
   >> 2010/08 ~ 2017/08
   - FastCampus iOS Development School 7기 과정 수료
   > 2018/05/08 ~ 2018/08/24
