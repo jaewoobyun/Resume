@@ -60,7 +60,7 @@
 > 2019/10/21 ~ 2020/01/20
 > iOS 개발 intern
 
--Finger
+- Finger
 > 2021/01/04 ~ Now
 > iOS Developer
 
