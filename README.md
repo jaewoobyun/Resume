@@ -60,6 +60,10 @@
 > 2019/10/21 ~ 2020/01/20
 > iOS 개발 intern
 
+-Finger
+> 2021/01/04 ~ Now
+> iOS Developer
+
 ## 5. Sample Projects
 
 ### FastCampus Team Final Project - My Real Trip copy app
