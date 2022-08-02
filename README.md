@@ -9,16 +9,13 @@
 ## 2. Summary
 ### Interests
   - iOS Application Development
-  - BasketBall
-  - Traveling
-  - Films
   
 ### Skills
-  - Core Languages: Swift
-  - Languages I dabbled with: HTML, CSS, JavaScript, Python, React-Native, C#
+  - Core Languages: Swift, Objective C
+  - Etc Experience: HTML, CSS, JavaScript, Python, React-Native, C#
   - Experienced Databases: SQLite, MySQL
   - Experienced Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
-  - Dependency Managers Experience: CocoaPods, Carthage
+  - Dependency Managers Experience: CocoaPods, Carthage, Swift Package Manager
   - IDEs: XCode, Visual Studio Code, Unity
   
 ### Books Read
@@ -32,6 +29,8 @@
         - https://github.com/jaewoobyun/CoreData
   - Realm - Building Modern Swift Apps with Realm Database (by Marin Todorov)
         - https://github.com/jaewoobyun/Realm
+  - SwiftUI by Tutorials (by Audrey Tam)
+        - 
   - 꼼꼼한 재은씨의 Swift 문법편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 기본편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 실전편 (by 이재은)
@@ -58,7 +57,7 @@
 
 - Nomad Connection
 > 2019/10/21 ~ 2020/01/20
-> iOS 개발 intern
+> iOS Developer intern
 
 - Finger
 > 2021/01/04 ~ Now
