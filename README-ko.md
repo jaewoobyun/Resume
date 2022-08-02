@@ -8,17 +8,14 @@
 ## 2. 요약
 ### 관심
   - iOS Application Development
-  - BasketBall
-  - Traveling
-  - Films
   
 ### 스킬
-  - 주 언어: Swift
+  - 주 언어: Swift, Objective C
   - 다뤄본 언어들: HTML, CSS, JavaScript, Python, React-Native, C#
-  - 모바일 개발: iOS
-  - 겪어본 데이터베이스: SQLite, MySQL
+  - 모바일 앱 개발: iOS
+  - 데이터베이스 경험: SQLite, MySQL
   - 경험해본 Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
-  - Dependency Managers Experience: CocoaPods, Carthage
+  - Dependency Managers Experience: CocoaPods, Carthage, Swift Package Manager
   - IDEs: XCode, Visual Studio Code, Unity
   
 ### 읽은 책들
@@ -32,6 +29,8 @@
         - https://github.com/jaewoobyun/CoreData
   - Realm - Building Modern Swift Apps with Realm Database (by Marin Todorov)
         - https://github.com/jaewoobyun/Realm
+  - SwiftUI by Tutorials (by Audrey Tam)
+        - ()
   - 꼼꼼한 재은씨의 Swift 문법편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 기본편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 실전편 (by 이재은)
