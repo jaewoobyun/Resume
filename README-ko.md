@@ -18,7 +18,7 @@
   - Dependency Managers Experience: CocoaPods, Carthage, Swift Package Manager
   - IDEs: XCode, Visual Studio Code, Unity
   
-### 읽은 책들
+### 독서 리스트 (자기 개발)
   - Data Structures & Algorithms in Swift (by Kevin Lau)
         - https://github.com/jaewoobyun/DataStructures_And_Algorithms
   - iOS Animations by Tutorials (by Marin Todorov)
@@ -30,16 +30,12 @@
   - Realm - Building Modern Swift Apps with Realm Database (by Marin Todorov)
         - https://github.com/jaewoobyun/Realm
   - SwiftUI by Tutorials (by Audrey Tam)
-        - ()
+  - RxSwift - Reactive Programming with Swift (by Marin Todorov)
+  - Combine (by Marin Todorov)
   - 꼼꼼한 재은씨의 Swift 문법편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 기본편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 실전편 (by 이재은)
   - Test-Driven iOS Development with Swift4 (Third Edition) Packt (by Dr.Dominik Hauser)
-  
-### 읽을 계획인 책들
-  - SwiftUI by Tutorials (by Audrey Tam)
-  - RxSwift - Reactive Programming with Swift (by Marin Todorov)
-  - Combine (by Marin Todorov)
 
 ## 3. 교육 과정
   - University of Illinois Urbana Champaign (일리노이 어바나 샴페인 주립대학교)
@@ -51,17 +47,18 @@
   > 2019/08/19 ~ 2019/10/18
 
 ## 4. 경력
-- Coordispace (실내 네비게이션 통합 framework 관련 SI 회사)
-> 2018/10/10 ~ 2018/12/31
-> App 개발 부서 iOS 개발 연구원. 
+- Finger
+> 2021/01/04 ~ 현재
+> iOS 개발
+> 
 
 - Nomad Connection
 > 2019/10/21 ~ 2020/01/20
 > iOS 개발 intern
 
-- Finger
-> 2021/01/04 ~ 현재
-> iOS 개발
+- Coordispace (실내 네비게이션 통합 framework 관련 SI 회사)
+> 2018/10/10 ~ 2018/12/31
+> App 개발 부서 iOS 개발 연구원. 
 
 ## 5. 샘플 프로젝트들
 
