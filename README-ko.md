@@ -53,24 +53,24 @@
 >> (2021.01 ~ 03)
 >> #### 농협은행 - NH뱅킹(스마트뱅크)
 >> - (전자서명법 개정 대응을 위한 금융인증서 도입 프로젝트 SI) 금융인증 프레임워크 연동
->> https://apps.apple.com/kr/app/nh스마트뱅킹/id1444712671
+>> - https://apps.apple.com/kr/app/nh스마트뱅킹/id1444712671
 >
 >> (2021.04 ~ 11)
 >> #### 농협 - 올원뱅크
 >> - (2021 생활금융플랫폼화 전산개발 SI) (보안키패드, 금액키패드, 배너, 등등)
->> https://apps.apple.com/kr/app/nh올원뱅크/id1138584631
+>> - https://apps.apple.com/kr/app/nh올원뱅크/id1138584631
 >
 >> (2021.11 ~ 2022.04)
 >> #### 우리은행 - 우리WON뱅킹
 >> - 우리WON뱅킹 전담반 (생체인증 보완, 로그수집, 버그픽스 등등)
->> https://apps.apple.com/kr/app/우리-won-뱅킹/id1470181651
+>> - https://apps.apple.com/kr/app/우리-won-뱅킹/id1470181651
 >
 >> (2022.08 ~ 2022.12)
 >> #### 자원순환보증금 - 소비자, 판매자, 회수사업자 앱
 >> - 2차 고도화 사업 (제주, 세종시 일회용 컵 보증금 시범 사업 실행)
->> https://apps.apple.com/kr/app/자원순환보증금/id1613285481
->> https://apps.apple.com/kr/app/자원순환보증금-판매사업자/id1616464037
->> https://apps.apple.com/kr/app/자원순환보증금-회수재활용사업자/id1616465238
+>> - https://apps.apple.com/kr/app/자원순환보증금/id1613285481
+>> - https://apps.apple.com/kr/app/자원순환보증금-판매사업자/id1616464037
+>> - https://apps.apple.com/kr/app/자원순환보증금-회수재활용사업자/id1616465238
 
 - Nomad Connection
 > 2019/10/21 ~ 2020/01/20
