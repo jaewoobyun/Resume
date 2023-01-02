@@ -51,17 +51,38 @@
   > 2019/08/19 ~ 2019/10/18
 
 ## 4. Career
-- Coordispace
-> 2018/10/10 ~ 2018/12/31
-> App 개발 부서 iOS 개발 연구원. 
+- Finger
+> 2021/01/04 ~ Current
+> iOS Developer
+>> (2021.01 ~ 03)
+>> #### NongHyup Bank - NH SmartBanking
+>> - Financial Certificate System Integration for Digital Signature Act
+>> - https://apps.apple.com/kr/app/nh스마트뱅킹/id1444712671
+>
+>> (2021.04 ~ 11)
+>> #### NongHyup Bank - AllOneBank
+>> - 2021 Finance Platformization System Integration Project (Integration on secure key pad, etc..)
+>> - https://apps.apple.com/kr/app/nh올원뱅크/id1138584631
+>
+>> (2021.11 ~ 2022.04)
+>> #### WooriBank - Woori WON Banking
+>> - Woori WON Banking dedicated Task Force (Improvement on Biometrics, BugFixes, etc..)
+>> - https://apps.apple.com/kr/app/우리-won-뱅킹/id1470181651
+>
+>> (2022.08 ~ 2022.12)
+>> #### COSMO - Customer, Seller, Retrieval Apps
+>> - Recycling Plastic Cups on major scale 2nd Advancement Project (Demonstration Project. Beta Open on Sejong-si and Jeju-si)
+>> - https://apps.apple.com/kr/app/자원순환보증금/id1613285481
+>> - https://apps.apple.com/kr/app/자원순환보증금-판매사업자/id1616464037
+>> - https://apps.apple.com/kr/app/자원순환보증금-회수재활용사업자/id1616465238
 
 - Nomad Connection
 > 2019/10/21 ~ 2020/01/20
 > iOS Developer intern
 
-- Finger
-> 2021/01/04 ~ Now
-> iOS Developer
+- Coordispace (Indoor Navigation framework Solution)
+> 2018/10/10 ~ 2018/12/31
+> Application Part iOS Developer
 
 ## 5. Sample Projects
 
