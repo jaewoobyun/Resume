@@ -71,6 +71,11 @@
 >> - https://apps.apple.com/kr/app/자원순환보증금/id1613285481
 >> - https://apps.apple.com/kr/app/자원순환보증금-판매사업자/id1616464037
 >> - https://apps.apple.com/kr/app/자원순환보증금-회수재활용사업자/id1616465238
+>
+>> (2023.04 ~ 2023.11)
+>> #### 우리글로벌 뱅킹 앱
+>> - 우리글로벌 뱅킹 재구축 프로젝트
+>> - https://apps.apple.com/kr/app/woori-global-banking/id667834896
 
 - Nomad Connection
 > 2019/10/21 ~ 2020/01/20
