@@ -74,11 +74,11 @@
 
 ### Nomad Connection
 > ( 2019/10/21 ~ 2020/01/20 )
-> iOS 개발 intern
+> - iOS 개발 intern
 
 ### Coordispace (실내 네비게이션 통합 framework 관련 SI 회사)
 > ( 2018/10/10 ~ 2018/12/31 )
-> App 개발 부서 iOS 개발 연구원. 
+> - App 개발 부서 iOS 개발 연구원. 
 
 ## 5. 샘플 프로젝트들
 
