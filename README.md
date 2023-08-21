@@ -54,23 +54,23 @@
 - Finger
 > 2021/01/04 ~ Current
 > iOS Developer
->> (2021.01 ~ 03)
->> #### NongHyup Bank - NH SmartBanking
+>> #### Woori Bank - Woori Global Banking (2023.04 ~ 2023.11)
+>> - Woori Global Banking App Renewal Project (Software Integration)
+>> - https://apps.apple.com/kr/app/woori-global-banking/id667834896
+>
+>> #### NongHyup Bank - NH SmartBanking (2021.01 ~ 03)
 >> - Financial Certificate System Integration for Digital Signature Act
 >> - https://apps.apple.com/kr/app/nh스마트뱅킹/id1444712671
 >
->> (2021.04 ~ 11)
->> #### NongHyup Bank - AllOneBank
+>> #### NongHyup Bank - AllOneBank (2021.04 ~ 11)
 >> - 2021 Finance Platformization System Integration Project (Integration on secure key pad, etc..)
 >> - https://apps.apple.com/kr/app/nh올원뱅크/id1138584631
 >
->> (2021.11 ~ 2022.04)
->> #### WooriBank - Woori WON Banking
+>> #### WooriBank - Woori WON Banking (2021.11 ~ 2022.04)
 >> - Woori WON Banking dedicated Task Force (Improvement on Biometrics, BugFixes, etc..)
 >> - https://apps.apple.com/kr/app/우리-won-뱅킹/id1470181651
 >
->> (2022.08 ~ 2022.12)
->> #### COSMO - Customer, Seller, Retrieval Apps
+>> #### COSMO - Customer, Seller, Retrieval Apps (2022.08 ~ 2022.12)
 >> - Recycling Plastic Cups on major scale 2nd Advancement Project (Demonstration Project. Beta Open on Sejong-si and Jeju-si)
 >> - https://apps.apple.com/kr/app/자원순환보증금/id1613285481
 >> - https://apps.apple.com/kr/app/자원순환보증금-판매사업자/id1616464037
