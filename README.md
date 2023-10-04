@@ -18,6 +18,7 @@
   - Dependency Managers Experience:         CocoaPods, Carthage, Swift Package Manager
   - IDEs:                                   XCode, Visual Studio Code, Unity
   - OpenSource Frameworks Experience:       Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, Localize-Swift, Hero, SwiftEntryKit, FSCalendar, SkeletonView, Valet ...)
+  - Third Party Library Integration Experience: FDS(Interigen abnormal transaction prevention), KeySharp(RAON JointCertificate wrapper), XecureSmart(Joint Certificate), nFilter(NSHC Secure Keypad), mTransKey(RAON Secure Keypad), Eversafe(Everspin Hacking Prevention), CodeMix(Everspin CodeMixing Solution), NetFunnel(User Queueing solution)
   
 ### Books Read
   - Data Structures & Algorithms in Swift (by Kevin Lau)
