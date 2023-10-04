@@ -17,9 +17,11 @@
   - Data management Systems, Platforms 경험:     SQLite, MySQL, Core Data, Realm
   - Dependency Manager 경험:                     CocoaPods, Carthage, Swift Package Manager
   - IDEs:                                       XCode, Visual Studio Code, Unity
-  - OpenSource Frameworks 경험:                  Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, 등등
+  - OpenSource Frameworks 경험:                  Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, SwiftLint
+  - Third Party Library Integration 경험:        FDS(인테리젠 이상거래탐지), KeySharp(라온 공동인증서 복사), XecureSmart(공동인증서), nFilter(NSHC 보안키패드), mTransKey(라온 보안키패드), Eversafe(에버스핀 해킹 방어 보안 솔루션), CodeMix(에버스핀 난독화 솔루션)
+  - 
   
-### 독서 리스트 (자기 개발)
+### 독서 리스트
   - Data Structures & Algorithms in Swift (by Kevin Lau)
         - https://github.com/jaewoobyun/DataStructures_And_Algorithms
   - iOS Animations by Tutorials (by Marin Todorov)
@@ -53,7 +55,7 @@
 > 
 > iOS 개발
 > #### 우리글로벌 뱅킹 앱 ( 2023.04 ~ 2023.11 )
->> - 우리글로벌 뱅킹 재구축 프로젝트
+>> - 우리글로벌 뱅킹 재구축 프로젝트 (SwiftUI, 로그인, 컴포넌트들, 공동인증서, 라이브러리 연동 (위변조 방지 솔루션, KingFisher, Lottie 등등)
 >> - https://apps.apple.com/kr/app/woori-global-banking/id667834896
 >
 > #### 자원순환보증금 - 소비자, 판매자, 회수사업자 앱 ( 2022.08 ~ 2022.12 )
