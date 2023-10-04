@@ -10,13 +10,14 @@
   - iOS Application Development
   
 ### 스킬
-  - 주 언어: Swift, Objective C
-  - 다뤄본 언어들: HTML, CSS, JavaScript, Python, React-Native, C#
-  - 모바일 앱 개발: iOS
-  - 데이터베이스 경험: SQLite, MySQL
-  - 경험해본 Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
-  - Dependency Managers Experience: CocoaPods, Carthage, Swift Package Manager
-  - IDEs: XCode, Visual Studio Code, Unity
+  - 모바일 앱 개발:                                iOS
+  - 주 언어:                                     Swift, Objective C
+  - 다뤄본 언어들:                                 HTML, CSS, JavaScript, Python, React-Native, C#
+  - UI:                                         UIKit, SwiftUI
+  - Data management Systems, Platforms 경험:     SQLite, MySQL, Core Data, Realm
+  - Dependency Manager 경험:                     CocoaPods, Carthage, Swift Package Manager
+  - IDEs:                                       XCode, Visual Studio Code, Unity
+  - OpenSource Frameworks 경험:                  Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, 등등
   
 ### 독서 리스트 (자기 개발)
   - Data Structures & Algorithms in Swift (by Kevin Lau)
