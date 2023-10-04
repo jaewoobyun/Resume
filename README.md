@@ -32,16 +32,13 @@
   - Realm - Building Modern Swift Apps with Realm Database (by Marin Todorov)
         - https://github.com/jaewoobyun/Realm
   - SwiftUI by Tutorials (by Audrey Tam)
-        - 
+  - RxSwift - Reactive Programming with Swift (by Marin Todorov)
+  - Combine (by Marin Todorov)
+     
   - 꼼꼼한 재은씨의 Swift 문법편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 기본편 (by 이재은)
   - 꼼꼼한 재은씨의 Swift 실전편 (by 이재은)
   - Test-Driven iOS Development with Swift4 (Third Edition) Packt (by Dr.Dominik Hauser)
-  
-### Books in progress
-  - SwiftUI by Tutorials (by Audrey Tam)
-  - RxSwift - Reactive Programming with Swift (by Marin Todorov)
-  - Combine (by Marin Todorov)
 
 ## 3. Education Progress
   >> ### University of Illinois Urbana Champaign ( 2010/08 ~ 2017/08 )
