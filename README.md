@@ -11,12 +11,13 @@
   - iOS Application Development
   
 ### Skills
-  - Core Languages: Swift, Objective C
-  - Etc Experience: HTML, CSS, JavaScript, Python, React-Native, C#
-  - Experienced Databases: SQLite, MySQL
-  - Experienced Data Persistence Framework || open source Data management System, Platforms: Core Data, Realm, Firebase
-  - Dependency Managers Experience: CocoaPods, Carthage, Swift Package Manager
-  - IDEs: XCode, Visual Studio Code, Unity
+  - Core Languages:                         Swift, Objective C
+  - Etc Experience:                         HTML, CSS, JavaScript, Python, React-Native, C#
+  - UI:                                     UIKit, SwiftUI
+  - Database Experience:                    SQLite, MySQL, CoreData, Realm
+  - Dependency Managers Experience:         CocoaPods, Carthage, Swift Package Manager
+  - IDEs:                                   XCode, Visual Studio Code, Unity
+  - OpenSource Frameworks Experience:       Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, Localize-Swift, Hero, SwiftEntryKit, FSCalendar, SkeletonView, Valet ...)
   
 ### Books Read
   - Data Structures & Algorithms in Swift (by Kevin Lau)
@@ -55,7 +56,7 @@
 > ( 2021/01/04 ~ Current )
 > iOS Developer
 > #### Woori Bank - Woori Global Banking ( 2023.04 ~ 2023.11 )
->> - Woori Global Banking App Renewal Project (Software Integration)
+>> - Woori Global Banking App Renewal Project (Software Integration) (SwiftUI, Login, Components, Library Integration, Joint Certificates)
 >> - https://apps.apple.com/kr/app/woori-global-banking/id667834896
 >
 > #### COSMO - Customer, Seller, Retrieval Apps ( 2022.08 ~ 2022.12 )
