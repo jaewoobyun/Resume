@@ -18,8 +18,7 @@
   - Dependency Manager 경험:                     CocoaPods, Carthage, Swift Package Manager
   - IDEs:                                       XCode, Visual Studio Code, Unity
   - OpenSource Frameworks 경험:                  Firebase (Analytics, Crashlytics, App Distribution, Remote Config, Authentication), SnapKit, Moya, KingFisher, AlamoFire, R.swift, RxSwift, Combine, lottie-iOS, SwiftEventBus, SwiftLint
-  - Third Party Library Integration 경험:        FDS(인테리젠 이상거래탐지), KeySharp(라온 공동인증서 복사), XecureSmart(공동인증서), nFilter(NSHC 보안키패드), mTransKey(라온 보안키패드), Eversafe(에버스핀 해킹 방어 보안 솔루션), CodeMix(에버스핀 난독화 솔루션)
-  - 
+  - Third Party Library Integration 경험:        FDS(인테리젠 이상거래탐지), KeySharp(라온 공동인증서 복사), XecureSmart(공동인증서), nFilter(NSHC 보안키패드), mTransKey(라온 보안키패드), Eversafe(에버스핀 해킹 방어 보안 솔루션), CodeMix(에버스핀 난독화 솔루션), NetFunnel (유량제어 솔루션)
   
 ### 독서 리스트
   - Data Structures & Algorithms in Swift (by Kevin Lau)
